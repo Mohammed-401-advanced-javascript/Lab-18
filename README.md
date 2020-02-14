@@ -4,8 +4,8 @@
 
 ### Links and Resources
 
-- [submission PR]()
-- [ci/cd]() (GitHub Actions)
+- [submission PR](https://github.com/Mohammed-401-advanced-javascript/Lab-18/pull/1)
+- [ci/cd](https://github.com/Mohammed-401-advanced-javascript/Lab-18/actions) (GitHub Actions)
 
 ### Setup
 npm i jest eslint
@@ -23,9 +23,8 @@ npm i jest eslint
 - Describe any tests that you did not complete, skipped, etc
      - evey test solved and another time i will cover more cases.
 ### My-app-data
-CLIENT_ID=66065e9b3ee1887bceba
-
-CLIENT_SECRET=b7c611819dd17aa5f19fd34eb3ad34feb4af596b
+CLIENT_ID=f6167d4a92a5624a94b8
+CLIENT_SECRET=205ff19f090b57df023e1eed4a74b218b39fa733
 ### Groub name : Qusai-alhanaktah, Mohmmad-Alhawamdeh, Ayman-Alkwaldeh, Ahmad-Al-Mhasnah
 #### UML
 Link to an image of the UML for your application and response to events
