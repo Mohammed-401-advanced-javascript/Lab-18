@@ -1,0 +1,28 @@
+{
+  "name": "Lab-18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammed-401-advanced-javascript/Lab-18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammed-401-advanced-javascript/Lab-18/issues"
+  },
+  "homepage": "https://github.com/Mohammed-401-advanced-javascript/Lab-18#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "faker": "^4.1.0",
+    "jest": "^25.1.0",
+    "path": "^0.12.7",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
+  }
+}
